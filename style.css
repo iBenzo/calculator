@@ -1,0 +1,31 @@
+#bodyDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#calculatorDiv{
+    height: 720px;
+    width: 520px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#totalDisplay{
+    height: 150px;
+    width: 520px;
+    background-color: black;
+}
+
+.button{
+    width: 126px;
+    height: 113px;
+}
+
+#zero{
+    width: 256px;
+}
